@@ -1,0 +1,2 @@
+# BotKick
+Self Bot Kick
